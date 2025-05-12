@@ -1,5 +1,6 @@
 # IndiaRoadAccidentAnalysis
 ![image alt](https://github.com/KartikParasher01/IndiaRoadAccidentAnalysis/blob/5b3322ed6a2a78bffc7d23dcdd16d9e5c3957c91/dataset-cover.jpg)
+
 Data From Kaggle: https://www.kaggle.com/datasets/s3programmer/road-accident-severity-in-india
 # 🚧 India Road Accident Data Analysis
 
